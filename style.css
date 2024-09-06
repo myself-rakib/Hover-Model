@@ -1,0 +1,16 @@
+div{
+    width: 95%;
+    height: 300px;
+    font-size: 30px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 40px;
+    background-color: transparent;
+    color: aqua;
+    transition: 1.5s;
+}
+div:hover{
+       background-color: skyblue;
+}
